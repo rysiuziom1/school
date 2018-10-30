@@ -24,7 +24,7 @@ int my_toupper(int);
 
 int main()
 {
-	char s1[10] = "Alamaw";
+	char s1[10] = "Ala";
 	char s2[20] = "Kot";
 	char s3[10] = "Alamaw";
 	printf("My strchr: %s\nstrchr: %s", my_strrchr(s1, 'a'), strrchr(s1, 'a'));
